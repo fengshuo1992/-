@@ -20,6 +20,11 @@
     
     
     NSLog(@"添加了忽略的文件");
+    
+    
+    
+    
+    NSLog(@"nianginanagin ");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
