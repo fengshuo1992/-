@@ -16,6 +16,7 @@
 		95AC15D0202C42F200176CC5 /* GitIgnoreTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AC15CF202C42F200176CC5 /* GitIgnoreTests.m */; };
 		95AC15DB202C42F200176CC5 /* GitIgnoreUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AC15DA202C42F200176CC5 /* GitIgnoreUITests.m */; };
 		95AC15EA202C477400176CC5 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AC15E9202C477400176CC5 /* Person.m */; };
+		95AC15ED202C4AEE00176CC5 /* Name.m in Sources */ = {isa = PBXBuildFile; fileRef = 95AC15EC202C4AEE00176CC5 /* Name.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		95AC15DC202C42F200176CC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95AC15E8202C477400176CC5 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		95AC15E9202C477400176CC5 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		95AC15EB202C4AEE00176CC5 /* Name.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Name.h; sourceTree = "<group>"; };
+		95AC15EC202C4AEE00176CC5 /* Name.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Name.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				95AC15BA202C42F200176CC5 /* ViewController.m */,
 				95AC15E8202C477400176CC5 /* Person.h */,
 				95AC15E9202C477400176CC5 /* Person.m */,
+				95AC15EB202C4AEE00176CC5 /* Name.h */,
+				95AC15EC202C4AEE00176CC5 /* Name.m */,
 				95AC15BC202C42F200176CC5 /* Main.storyboard */,
 				95AC15BF202C42F200176CC5 /* Assets.xcassets */,
 				95AC15C1202C42F200176CC5 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95AC15ED202C4AEE00176CC5 /* Name.m in Sources */,
 				95AC15BB202C42F200176CC5 /* ViewController.m in Sources */,
 				95AC15C6202C42F200176CC5 /* main.m in Sources */,
 				95AC15EA202C477400176CC5 /* Person.m in Sources */,
